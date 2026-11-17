@@ -1,0 +1,7 @@
+Event ID,Timestamp (s),Frame,Track ID,Direction,Net Occupancy
+1,3.8,114,1,IN (UP),1
+2,6.8,204,2,IN (UP),2
+3,9.0,270,3,IN (UP),3
+4,9.43,283,5,OUT (DOWN),2
+5,9.67,290,7,OUT (DOWN),1
+6,10.63,319,6,IN (UP),2
